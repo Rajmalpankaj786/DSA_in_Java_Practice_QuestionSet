@@ -1,4 +1,4 @@
-package com.DSA;
+package com.DSA.ArrayProblems;
 
 public class Move_Zero_To_end_an_Arrray {
 	

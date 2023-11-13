@@ -1,4 +1,4 @@
-package com.DSA;
+package com.DSA.ArrayProblems;
 
 public class FindSecond_maximum_valueInArray {
 	

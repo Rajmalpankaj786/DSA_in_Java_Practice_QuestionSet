@@ -1,4 +1,4 @@
-package com.DSA;
+package com.DSA.ArrayProblems;
 
 public class MimimunArrray_Value {
     public static int minimumValueOFArray(int arr[]) {
