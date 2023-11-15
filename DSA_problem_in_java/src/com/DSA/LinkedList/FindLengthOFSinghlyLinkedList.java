@@ -15,6 +15,9 @@ public class FindLengthOFSinghlyLinkedList {
       }
       
       public int printLength() {
+    	  if(head == null) {
+    		 return 0;
+    	  }
     	  int length = 0;
     	  ListNode current = head;
     	  while(current != null) {
@@ -41,7 +44,7 @@ public class FindLengthOFSinghlyLinkedList {
     	  second.next = third;
     	  third.next = forth;
     	  
-    	System.out.println(  sll.printLength());
+    	System.out.println("length : "+sll.printLength());
     	  
 	}
 }
