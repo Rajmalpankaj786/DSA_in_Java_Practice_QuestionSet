@@ -10,5 +10,7 @@
 3. Linked List :<br>
 4. Leetcode problems: <br>
    1. Merge Sorted Array
-   2. 
+   2. Two Sum
+   3. Best Time to Buy and Sell Stock
+   4. 
 
