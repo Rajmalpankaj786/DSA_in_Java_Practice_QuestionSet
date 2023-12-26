@@ -8,6 +8,11 @@
 
 2. string :<br>
 3. Linked List :<br>
+   1. Find Length OF Singhly Linked List
+   2. Print Singhly Linked List
+   3. Insert Node A Beggining
+   4. Insert Node Last
+   5. 
 4. Leetcode problems: <br>
    1. Merge Sorted Array
    2. Two Sum
