@@ -7,6 +7,7 @@
    e. Resize an Array<br>
 
 2. string :<br>
+    1. Palindrome
 3. Linked List :<br>
    1. Find Length OF Singhly Linked List
    2. Print Singhly Linked List
