@@ -12,7 +12,7 @@ public class MissingElement_In_an_Array {
 	}
 	
 	public static void main(String[] args) {
-		int[] arr = new int[] {1,2,0,5,6};
+		int[] arr = new int[] {1,4,3,5,6};
 		System.out.println(missingElement(arr));
 		
 	}
