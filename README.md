@@ -22,4 +22,9 @@
 5. Stack: <br>
    1. balanced Parentheses
    2. Valid parentheses
-
+      
+6. StreamAPI: <br>
+   1. convariance and contravariance
+   2. Sort Operation
+   3. reduce
+   4. filter
