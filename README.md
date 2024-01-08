@@ -19,4 +19,7 @@
    2. Two Sum
    3. Best Time to Buy and Sell Stock
    4. 
+5. Stack: <br>
+   1. balanced Parentheses
+   2. Valid parentheses
 
