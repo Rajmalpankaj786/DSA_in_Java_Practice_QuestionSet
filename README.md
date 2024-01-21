@@ -5,7 +5,8 @@
    c. Missing Element In an Array<br>
    d. Move Zero To end an Array<br>
    e. Resize an Array<br>
-   f.  Move Zero To end using List<br>
+   f. Move Zero To end using List<br>
+   g. Merge interval using 2d arrays<br>
 
 2. string:<br>
     1. Palindrome
@@ -14,7 +15,8 @@
    2. Print Singhly Linked List
    3. Insert Node A Beginning
    4. Insert Node Last
-   5. insert Node at a particular position 
+   5. insert Node at a particular position
+   6. delete node at first and last both
 4. Leetcode problems: <br>
    1. Merge Sorted Array
    2. Two Sum
