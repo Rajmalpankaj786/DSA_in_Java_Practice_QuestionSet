@@ -20,11 +20,9 @@ public class InsertNodeLast {
  	    	System.out.print(current.data+" -> ");
  	    	current = current.next;
  	    }
- 	    	 System.out.println("null");
- 	    
- 	    
- 	   
+ 	    	 System.out.println("null");  
     }
+     
 	public void insertFirst(int value) {
 		ListNode newNode = new ListNode(value);
 		newNode.next = head;
@@ -54,6 +52,7 @@ public class InsertNodeLast {
 	   inb.insertLast(11);
 	   inb.insertLast(13);
 	   inb.insertLast(15);
+	   
 	   inb.printData();
 	   
 }
