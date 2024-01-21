@@ -3,7 +3,7 @@ package com.DSA.LinkedList;
 
 
 public class SLL_InsertNode_at_particular_position {
-	private static ListNode head;
+	private  ListNode head;
 	 private static class ListNode{
   	   private int data;
   	   private ListNode next;
@@ -25,7 +25,7 @@ public class SLL_InsertNode_at_particular_position {
   	    
   	   
      }
-     public static void insert(int position , int value) {
+     public void insert(int position , int value) {
      
     	 ListNode node = new ListNode(value);
     	 if(position == 1) {
