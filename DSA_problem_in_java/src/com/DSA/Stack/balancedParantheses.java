@@ -7,8 +7,10 @@ public class balancedParantheses {
       public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		String str = sc.next();
-		
+		var n = sc.nextInt();
+		var str = sc.next();
+		//if this time I am using var then it is working file in the main block but this is not set in the outside off main block
+		 
 		balanceparn(str);
 		
 	}
@@ -19,7 +21,7 @@ public class balancedParantheses {
 		Stack<String> st = new Stack<>();
 		
 		for(String s : str.split("")) {
-		if(!st.isEmpty() && st.peek() == s) {	
+		if(!st.isEmpty() && st.peek().equals(s)) {	
 			st.pop();
 		}
 		else{
