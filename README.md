@@ -16,12 +16,18 @@
    3. Insert Node A Beginning
    4. Insert Node Last
    5. insert Node at a particular position
-   6. delete node at first and last both
+   6. search data SLL
+   7. find the Middle Node
+   8. delete node at first and last both
+   9. Palindrome Linked List
+   10. reverse linked list
+   11. delete the middle node in LinkedList
+   12. 
 4. Leetcode problems: <br>
    1. Merge Sorted Array
    2. Two Sum
    3. Best Time to Buy and Sell Stock
-   4. 
+   4. remove the Unsorted linked List element
 5. Stack: <br>
    1. balanced Parentheses
    2. Valid parentheses
