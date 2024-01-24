@@ -28,6 +28,7 @@
    2. Two Sum
    3. Best Time to Buy and Sell Stock
    4. remove the Unsorted linked List element
+   5. remove duplicate elements in the sorted linked list
 5. Stack: <br>
    1. balanced Parentheses
    2. Valid parentheses
