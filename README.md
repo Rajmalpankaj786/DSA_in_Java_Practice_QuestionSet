@@ -22,7 +22,7 @@
    9. Palindrome Linked List
    10. reverse linked list
    11. delete the middle node in LinkedList
-   12. 
+   12. insert node in sorted LinkedList
 4. Leetcode problems: <br>
    1. Merge Sorted Array
    2. Two Sum
