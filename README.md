@@ -8,10 +8,12 @@
    f. Move Zero To end using List<br>
    g. Merge interval using 2d arrays<br>
    h. Rotate Array
-   i. Sprial matrix
+   i. Spiral matrix
 
 3. string:<br>
     1. Palindrome
+    2. compare Two Objects
+    3. Rotate String
 4. Linked List:<br>
    1. Find the Length of the Singly Linked List
    2. Print Singhly Linked List
