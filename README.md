@@ -7,10 +7,12 @@
    e. Resize an Array<br>
    f. Move Zero To end using List<br>
    g. Merge interval using 2d arrays<br>
+   h. Rotate Array
+   i. Sprial matrix
 
-2. string:<br>
+3. string:<br>
     1. Palindrome
-3. Linked List:<br>
+4. Linked List:<br>
    1. Find the Length of the Singly Linked List
    2. Print Singhly Linked List
    3. Insert Node A Beginning
@@ -24,17 +26,18 @@
    11. delete the middle node in LinkedList
    12. insert a node in sorted LinkedList
    13. add two numbers in linked list
-4. Leetcode problems: <br>
+   14. Rotate ListNode
+5. Leetcode problems: <br>
    1. Merge Sorted Array
    2. Two Sum
    3. Best Time to Buy and Sell Stock
    4. remove the Unsorted linked List element
    5. remove duplicate elements in the sorted linked list
-5. Stack: <br>
+6. Stack: <br>
    1. balanced Parentheses
    2. Valid parentheses
       
-6. StreamAPI: <br>
+7. StreamAPI: <br>
    1. convariance and contravariance
    2. Sort Operation
    3. reduce
