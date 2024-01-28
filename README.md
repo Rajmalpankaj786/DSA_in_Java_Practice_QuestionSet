@@ -29,6 +29,7 @@
    12. insert a node in sorted LinkedList
    13. add two numbers in linked list
    14. Rotate ListNode
+   15. Generics
 5. Leetcode problems: <br>
    1. Merge Sorted Array
    2. Two Sum
